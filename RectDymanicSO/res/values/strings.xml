@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RectDymanic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Assets2SO">来自Assets文件夹的SO</string>
+    <string name="HTTP2SO">来自网络上的SO</string>
+
+</resources>
